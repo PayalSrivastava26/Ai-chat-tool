@@ -1,4 +1,4 @@
-# 🤖 ChatTrix AI
+#  ChatTrix AI
 
 **ChatTrix AI** is a modern, AI-powered chat application built with **React**, **Vite**, and **Supabase**, using **Gemini API** for intelligent responses. It provides a real-time, secure, and engaging chat experience.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Features
+##  Features
 
 - 💬 Real-time AI chat powered by Gemini API
 - 🧾 Chat history saved securely using Supabase
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: React, Vite
 - **Backend (Database)**: Supabase (PostgreSQL + Auth + Realtime)
@@ -25,7 +25,7 @@
 - **Deployment**: Vercel
 
 
-## ⚙️ Getting Started
+##  Getting Started
 
 ### Prerequisites
 
